@@ -9,7 +9,7 @@
 [![IJCAI2024](https://img.shields.io/badge/arXiv-2403.11974-blue)](https://doi.org/10.48550/arXiv.2403.11974) [![IJCAI2024](https://img.shields.io/badge/Conference-IJCAI2024-green)](https://doi.org/10.48550/arXiv.2403.11974)
 -->
 
-The code for paper "CeCNN: Copula-enhanced convolutional neural networks in joint prediction of refraction error and axial length based on ultra-widefield fundus images’’.
+The code and the supplement material for paper "CeCNN: Copula-enhanced convolutional neural networks in joint prediction of refraction error and axial length based on ultra-widefield fundus images’’.
 
 ![Readme Banner](fig/cecnn_v9.png)
 
