@@ -10,6 +10,9 @@
 -->
 
 The code and the supplement material for paper "CeCNN: Copula-enhanced convolutional neural networks in joint prediction of refraction error and axial length based on ultra-widefield fundus images’’.
+ - Warmup_RC_simulation.py & Warmup_$$RR_simulation.py: Warm-up CNN module where we train the backbone CNNs under empirical loss (Module 1).
+ - Copula_RC_simulation.py & Copula_RR_simulation.py: Copula estimate module where we retrain the CeCNN models from above module with the proposed copula loss (Module 3). 
+ - CeCNN_Supplement.pdf: Including technical proof and additional experiments.
 
 ![Readme Banner](fig/cecnn_v9.png)
 
